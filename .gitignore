@@ -1,5 +1,6 @@
 node_modules
+dist
+build
+.next
 .env
-backend/.env
-node_modules/
-*.exe
+*.zip
